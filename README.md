@@ -1,5 +1,4 @@
-## I build scalable SaaS platforms that solve complex business bottlenecks. 
-### I focus on bridging the gap between heavy frontend user experiences and resilient backend systems.
+### I build scalable SaaS platforms that solve complex business bottlenecks. I focus on bridging the gap between heavy frontend user experiences and resilient backend systems.
 
 ### Current Focus
 * **Building @ Nifty Books:** Architecting and scaling high-impact SaaS products.
